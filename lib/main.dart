@@ -22,7 +22,7 @@ class _MyAppState extends State<MyApp> {
     {
       'pertanyaan': 'Tempat apa yang akan anda kunjungi?',
       'jawaban': [
-        {'teks': 'pegnungan', 'skor': 10},
+        {'teks': 'pegunungan', 'skor': 10},
         {'teks': 'Pantai', 'skor': 5},
         {'teks': 'Mall', 'skor': 3},
         {'teks': 'Hutan', 'skor': 1},
